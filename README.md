@@ -73,6 +73,16 @@ A web project for a UAE moving-services business, with a focus on service pages,
 - Content structure for service areas and local SEO.
 - Frontend implementation and website optimization.
 
+## Project Case Studies
+
+I’ve written up high-level case studies describing the problem, architecture, engineering decisions, and technical scope without exposing proprietary source code.
+
+- [LeadPlatform — Lead Distribution & Routing](case-studies/leadplatform.md)
+- [AgentSync — Call-Center Monitoring](case-studies/agentsync.md)
+- [Esports Overlay & Tournament Graphics](case-studies/esports-overlays.md)
+- [MoovDubai — Moving Services Website](case-studies/moovdubai.md)
+- [Browse all case studies](case-studies/README.md)
+
 ## How I Work
 
 - **Understand the workflow:** identify the business problem and constraints first.
